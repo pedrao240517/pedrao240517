@@ -59,4 +59,4 @@ Me chamo Pedro Lucas Silva, tenho 18 anos e sou natural de Cuiabá, Mato Grosso.
 <br/>
 <br/>
 
-⭐ Se voce gosta dos meus projetos conidere adicionar um repositório aos seus favoritos 
+⭐ Se voce gosta dos meus projetos considere adicionar um repositório aos seus favoritos 

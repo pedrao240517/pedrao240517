@@ -24,14 +24,7 @@ Me chamo Pedro Lucas Silva, tenho 18 anos e sou natural de Cuiabá, Mato Grosso.
 
 ## 🛠️ Conjunto de tecnologias
 ### Frontend
-<img 
-    align="left" 
-    alt="javscript"
-    title="javscript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/javascript/original.svg" 
-/>
+
 <br/>
 
 

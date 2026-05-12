@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Lucas
+# 👨🏻‍💻 Pedro Lucas
 
 **`Desenvolvedor backend`**
 

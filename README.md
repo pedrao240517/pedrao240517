@@ -2,7 +2,7 @@
 
 **`Desenvolvedor backend`**
 
-Me chamo Pedro Lucas Silva, tenho 18 anos e sou natural de Cuiabá, Mato Grosso. Atualmente, curso Ciência da Computação na UNIC e sou apaixonado por tecnologia e programação Compartilho meus projetos, estudos e aprendizados na área por meio do meu GitHub e, em um futuro próximo, também nas redes sociais.
+Me chamo Pedro Lucas Silva, tenho 18 anos e sou natural de Cuiabá, Mato Grosso. Atualmente, curso Ciência da Computação na UNIC e sou apaixonado por tecnologia e programação Compartilho meus projetos, estudos e aprendizados na área por meio do meu GitHub e em um futuro próximo, também nas redes sociais.
 <p align="left">
     <a href="https://github.com/pedrao240517?tab=repositories">
         <img 
